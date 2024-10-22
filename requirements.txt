@@ -1,0 +1,9 @@
+numpy
+Pillow
+scipy
+matplotlib
+scikit-learn
+pandas
+pdf2image
+imagehash
+python-poppler
